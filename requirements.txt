@@ -3,7 +3,7 @@
 
 # third party packages
 dvc
-dvc[gdrive]
+dvc_gdrive
 sklearn
 pandas
 pytest
